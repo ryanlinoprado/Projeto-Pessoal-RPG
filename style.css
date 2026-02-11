@@ -25,7 +25,7 @@ body {
     margin: auto;
 }
 
-/*  TOPO  */
+/*  Topo site  */
 .topo {
     background-color: #050505;
     border-bottom: 1px solid #1f1f1f;
@@ -63,7 +63,7 @@ body {
     transition: color 0.3s ease;
 }
 
-/* Linha sutil no hover */
+/* Linha no hover */
 .navegacao a::after {
     content: "";
     position: absolute;
